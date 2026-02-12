@@ -1,0 +1,26 @@
+.container {
+  text-align: center;
+  margin: 40px;
+  border: 1px solid rgb(232, 224, 224);
+  width: 600px;
+  background-color: rgb(240, 225, 225);
+  padding: 20px;
+}
+
+.heading {
+  background-color: rgb(246, 245, 244);
+  margin: 20px;
+  border: 2px solid white;
+ padding:1px;
+}
+
+.profile-img-container {
+  margin: 20px;
+  max-width:100%;
+  text-align: center;
+}
+
+footer{
+   text-align:center;
+   color: gray;
+}
